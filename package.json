@@ -1,0 +1,27 @@
+{
+  "name": "socketio_test",
+  "version": "1.0.0",
+  "description": "Socket.IO_test",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfrmr/socketio_test.git"
+  },
+  "keywords": [
+    "Socket.IO"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasfrmr/socketio_test/issues"
+  },
+  "homepage": "https://github.com/lucasfrmr/socketio_test#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
